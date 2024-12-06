@@ -1,5 +1,5 @@
 {
   "AOBPattern": "",
-  "AOBReadOffset": 0x60,
-  "AOBWriteOffset": 0x5C
+  "AOBReadOffset": ,
+  "AOBWriteOffset": 
 }
